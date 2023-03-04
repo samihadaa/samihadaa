@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samihadaa&label=Profile%20views&color=0e75b6&style=flat" alt="samihadaa" /> </p>
 
-- 🔭 I’m currently working on **Django Projects**
+- 🔭 I’m currently working on **Vue.js and PHP projects**
 
-- 🌱 I’m currently learning **Linux,Docker, PostgreSQL and Django Rest Framework**
+- 🌱 I’m currently learning **Linux,Docker, API, PostgreSQL, PHP and Vue**
 
 - 👨‍💻 All of my projects are available at [My gitHub account](My gitHub account)
 

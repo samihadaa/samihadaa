@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Vue.js and PHP projects**
 
-- 🌱 I’m currently learning **Linux,Docker, API, PostgreSQL, PHP and Vue**
+- 🌱 I’m currently learning **Linux,Docker, Laravel 10.0**
 
 - 👨‍💻 All of my projects are available at [My gitHub account](My gitHub account)
 
 - 📝 I regularly write articles on [E-commerce products](E-commerce products)
 
-- 💬 Ask me about **Javascript, PHP, Vue.js , Python,Django,Docker,PostgreSQL,DRF, Linux**
+- 💬 Ask me about **Javascript, PHP, Vue.js ,MongoDB, SQL Server, Linux**
 
 - 📫 How to reach me **samihada.madaraa@gmail.com**
 

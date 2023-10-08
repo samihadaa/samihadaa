@@ -10,9 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [My gitHub account](My gitHub account)
 
-- 📝 I regularly write articles on [E-commerce products](E-commerce products)
-
-- 💬 Ask me about **Javascript, PHP, Vue.js ,MongoDB, SQL Server, Linux**
+- 💬 Ask me about **Javascript, PHP,Laravel, Vue.js, socket.io ,MongoDB, SQL Server,Mongo DB, Linux**
 
 - 📫 How to reach me **samihada.madaraa@gmail.com**
 
